@@ -1,0 +1,7 @@
+{
+  "name": "JS_HW_07",
+  "version": "1.0.0",
+  "dependencies": {
+    "basiclightbox": "^5.0.4"
+  }
+}
